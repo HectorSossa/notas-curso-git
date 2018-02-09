@@ -1,0 +1,1 @@
+gitignore.- archivos que git ignorará

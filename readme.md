@@ -31,4 +31,4 @@ git add . (agregar todos los archivos esten en seguimiento o no a la zona de pre
 
  git commit --amend (modificar el commit)
 
- gitignore
+ .gitignore (ignorar archivos)
