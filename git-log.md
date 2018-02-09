@@ -12,3 +12,6 @@ mostrar el hitorial de otras formas
 
 mostrar historial apartir de una fecha `git log --after="2016-04-07 00:00:00"`
 
+mostrar historial antes de una fecha `git log --bfore="2016-04-07 00:00:00"`
+
+ambas `git log --after="2016-04-07 00:00:00" --bfore="2016-04-07 11:30:00
