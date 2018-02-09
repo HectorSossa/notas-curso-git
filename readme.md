@@ -28,3 +28,7 @@ git add . (agregar todos los archivos esten en seguimiento o no a la zona de pre
  git reset HEAD readme.md (sacar archivo de la zona de preparacion)
 
  git add -A (Guarda todos los archivos que estamos siguiendo con git)
+
+ git commit --amend (modificar el commit)
+
+ gitignore
