@@ -46,3 +46,12 @@ se debe confirmar con commit una eliminacion.
 clonar, git clone https://github.com/escueladigital/EDgrid.git
 
 clonar con nuevo nombre, git clone https://github.com/escueladigital/EDgrid.git mi-propio-grid
+
+git tag ver todas las etiquetas
+
+etiqueta ligera git tag mi-etiqueta
+
+etiqueta anotada git tag -a v1.0 -m "Mi version 1.0"
+
+git show mi-etiqueta (muestra la info de la etiqutea)
+
