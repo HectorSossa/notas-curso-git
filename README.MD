@@ -42,3 +42,7 @@ se debe confirmar con commit una eliminacion.
  (recuperar archivos borrados de sublime)
 
  git mv readme.md README.md (renombrar archivos)
+
+clonar, git clone https://github.com/escueladigital/EDgrid.git
+
+clonar con nuevo nombre, git clone https://github.com/escueladigital/EDgrid.git mi-propio-grid
