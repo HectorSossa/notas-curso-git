@@ -19,9 +19,8 @@ git status (estatus del repositorio)
 
 git commit -m "Comit inicial" (confirmar .git repositorio )
 
-git log (archivos del rpositorio)
+git log (historial de confirmaciones commit archivos del rpositorio)
 
 git diff (diferencia de archivos).
 
 git diff --staged (ver la dirferencia entre lo que ya preparamos y lo que aun no preparamos)
-
