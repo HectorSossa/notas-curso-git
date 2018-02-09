@@ -34,3 +34,5 @@ git add . (agregar todos los archivos esten en seguimiento o no a la zona de pre
  .gitignore (ignorar archivos)
 
  git commit -a -m (saltas zona de preparacion solo para archivos que ya estamos ratreando que ya han tenido un commit)
+
+ git rm (elimina archivo ratreados del repositorio)
