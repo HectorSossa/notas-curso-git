@@ -1,4 +1,5 @@
 ## Curso Git desde Cero
+Sistema de control de versiones para el mantto eficiente y confiable de aarchivos.
 
 ### Zonas de Git
 1.- Directorio de trabajo
@@ -24,3 +25,9 @@ git log (historial de confirmaciones commit archivos del rpositorio)
 git diff (diferencia de archivos).
 
 git diff --staged (ver la dirferencia entre lo que ya preparamos y lo que aun no preparamos)
+
+git add . (agregar todos los archivos esten en seguimiento o no a la zona de preparacion)
+
+ git reset HEAD readme.md (sacar archivo de la zona de preparacion)
+
+ git add -A (Guarda todos los archivos que estamos siguiendo con git)
