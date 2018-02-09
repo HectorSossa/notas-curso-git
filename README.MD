@@ -41,4 +41,4 @@ se debe confirmar con commit una eliminacion.
  git checkout -- Clase1/definicion.html
  (recuperar archivos borrados de sublime)
 
- git mv (renombrar archivos)
+ git mv readme.md README.md (renombrar archivos)
